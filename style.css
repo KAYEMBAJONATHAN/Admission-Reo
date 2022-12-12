@@ -1,5 +1,5 @@
 body{
-  color: black;
+  color: yellow;
 }
 navbar{
   position: fixed;
@@ -16,4 +16,4 @@ navbar{
   #main-doc{
       margin-left: -10px;
   }
-}
+} 
